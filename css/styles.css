@@ -3937,6 +3937,7 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  justify-content: center;
 }
 
 .nav-link {
@@ -3981,7 +3982,7 @@ textarea.form-control-lg {
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #3b5a6d;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -3999,7 +4000,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #000000;
+  background-color: #3b5a6d;
 }
 
 .nav-fill > .nav-link,
